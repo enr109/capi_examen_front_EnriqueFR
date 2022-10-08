@@ -1,0 +1,14 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.tb-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.color-sidenav {
+    background: radial-gradient(73.09% 71.98% at 0% 100%, #004977 0%, #000e40 100%);
+    color: #ffffff;
+    height: 50px;
+}
